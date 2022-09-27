@@ -4,4 +4,4 @@ STlink V2.1版本
 立场开源地址：https://oshwhub.com/OpticalMoe/stlink-v2_1
 
 
-![](./stlink_v_2_1.jpeg)
+![](./stlink_v2_1.png)
